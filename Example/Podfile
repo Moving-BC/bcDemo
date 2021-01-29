@@ -1,0 +1,6 @@
+use_frameworks!
+target 'bcDemo_Tests' do
+  pod 'bcDemo', :path => '../'
+  
+  
+end
