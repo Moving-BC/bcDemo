@@ -1,0 +1,6 @@
+framework module bcDemo {
+  umbrella header "bcDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
